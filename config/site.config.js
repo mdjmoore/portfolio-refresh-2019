@@ -15,7 +15,7 @@ const config = {
   site_description: 'a refresh of my original portfolio ',
 
   // Your website's URL, used for sitemap
-  site_url: 'mdjm.io',
+  site_url: 'https://www.mdjm.io',
 
   // Google Analytics tracking ID (leave blank to disable)
   googleAnalyticsUA: '',
